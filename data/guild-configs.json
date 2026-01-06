@@ -1,0 +1,22 @@
+{
+  "1436058590157869158": {
+    "streakChannelId": "1436070802637459607",
+    "commandChannelIds": [
+      "1436070216022102267"
+    ],
+    "adminRoleId": "1436064997280059444",
+    "streakRoleIds": [
+      "1436064729041866843"
+    ],
+    "logsChannelId": null,
+    "messageCountRequired": 5,
+    "timeLimit": null,
+    "enabled": true,
+    "premium": {
+      "enabled": false,
+      "expiresAt": null,
+      "customIcons": {},
+      "levelBounds": {}
+    }
+  }
+}
